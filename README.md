@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...developing new ideas
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...twistedshit4realsaga@gmail.com 
+- 📫 How to reach me ...twistedshit4real@gmail.com 
 
 <!---
 twistedshit4realsaga/twistedshit4realsaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
